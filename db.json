@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john@mail.com",
+      "name": "Jhon",
+      "phone": "0176 123 98888 99",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg"
+    },
+    {
+      "id": 2,
+      "email": "maria@mail.com",
+      "name": "Maria",
+      "phone": "0176 123 444 4 90",
+      "avatar": "https://i.imgur.com/DTfowdu.jpg"
+    },
+    {
+      "id": 3,
+      "email": "jon@mail.com",
+      "name": "Joni",
+      "phone": "0176 4335 5 00",
+      "avatar": "https://i.imgur.com/yhW6Yw1.jpg"
+    },
+    {
+      "id": 4,
+      "email": "alex@mail.com",
+      "name": "Alex",
+      "phone": "0176 75474 22",
+      "avatar": "https://i.imgur.com/yhW6Yw1.jpg"
+    },
+    {
+      "id": 5,
+      "email": "colin@mail.com",
+      "name": "Colin",
+      "phone": "0176 7697 797 556",
+      "avatar": "https://i.imgur.com/LDOO4Qs.jpg"
+    }
+  ]
+}
+
