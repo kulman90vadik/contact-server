@@ -34,6 +34,13 @@
       "name": "Spien",
       "phone": "0176 7697 797 556",
       "avatar": "https://i.imgur.com/LDOO4Qs.jpg"
+    },
+    {
+      "id": 6,
+      "email": "ilon@mail.com",
+      "name": "Ilon",
+      "phone": "333 33 312",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM1rI3acRw4UGRyDufJG4ua6aahuzFyXm-G-CROTie1g&s"
     }
   ]
 }
