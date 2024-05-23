@@ -5,7 +5,7 @@
       "email": "john@mail.com",
       "name": "Jhon",
       "phone": "0176 123 98888 99",
-      "avatar": "https://i.imgur.com/LDOO4Qs.jpg"
+      "avatar": "/images/12.png"
     },
     {
       "id": 2,
@@ -19,19 +19,19 @@
       "email": "jon@mail.com",
       "name": "Joni",
       "phone": "0176 4335 5 00",
-      "avatar": "https://i.imgur.com/yhW6Yw1.jpg"
+      "avatar": "/images/32.png"
     },
     {
       "id": 4,
-      "email": "alex@mail.com",
-      "name": "Alex",
+      "email": "ol@mail.com",
+      "name": "Olja",
       "phone": "0176 75474 22",
-      "avatar": "https://i.imgur.com/yhW6Yw1.jpg"
+      "avatar": "/images/43.png"
     },
     {
       "id": 5,
-      "email": "colin@mail.com",
-      "name": "Colin",
+      "email": "spo@mail.com",
+      "name": "Spien",
       "phone": "0176 7697 797 556",
       "avatar": "https://i.imgur.com/LDOO4Qs.jpg"
     }
