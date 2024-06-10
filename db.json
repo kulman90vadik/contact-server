@@ -48,6 +48,18 @@
       "phone": "333 33 312",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM1rI3acRw4UGRyDufJG4ua6aahuzFyXm-G-CROTie1g&s"
     }
+  ],
+
+  "znakomstva": [
+    {
+      "id": 1,
+      "name": "Jon",
+      "age": "21",
+      "city": "Usa",
+      "status": true,
+      "gender": "man",
+      "avatar": "/public/images/znakomstva/1.png"
+    }
   ]
 }
 
