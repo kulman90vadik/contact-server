@@ -58,7 +58,7 @@
       "city": "Belgium",
       "status": true,
       "gender": "man",
-      "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/belgium/belgium_640.png",
+      "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/belgium/belgium_64.png",
       "avatar": "https://s3.eu-central-1.amazonaws.com/e-sathi/uploads/photos/2022/03/e-sathi_f1d1480f240359018ad5e40032725114.jpg"
       },
       {
@@ -67,8 +67,18 @@
         "age": "24",
         "city": "Canada",
         "status": true,
-        "gender": "man",
-        "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/canada/canada_640.png",
+        "gender": "woman",
+        "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/canada/canada_64.png",
+        "avatar": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663091788_11-mykaleidoscope-ru-p-emotsii-i-chuvstva-krasivo-12.jpg"
+    },
+      {
+        "id": 3,
+        "name": "Olja",
+        "age": "29",
+        "city": "Belarus",
+        "status": true,
+        "gender": "woman",
+        "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/belarus/belarus_64.png",
         "avatar": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663091788_11-mykaleidoscope-ru-p-emotsii-i-chuvstva-krasivo-12.jpg"
     }
   ]
