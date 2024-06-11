@@ -59,16 +59,16 @@
       "status": true,
       "gender": "man",
       "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/belgium/belgium_64.png",
-      "avatar": "https://s3.eu-central-1.amazonaws.com/e-sathi/uploads/photos/2022/03/e-sathi_f1d1480f240359018ad5e40032725114.jpg"
+      "avatar": "http://kolapromsnab.ru/wa-data/public/shop/products/07/29/2907/images/2832/2832.200.png"
       },
       {
         "id": 2,
         "name": "Lena",
         "age": "24",
-        "city": "Canada",
+        "city": "Argentina",
         "status": true,
         "gender": "woman",
-        "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/canada/canada_64.png",
+        "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/97/28/2897/images/2822/2822.200.png",
         "avatar": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663091788_11-mykaleidoscope-ru-p-emotsii-i-chuvstva-krasivo-12.jpg"
     },
       {
@@ -78,7 +78,7 @@
         "city": "Belarus",
         "status": true,
         "gender": "woman",
-        "flag": "https://img.freeflagicons.com/thumb/fluttering_flag/belarus/belarus_64.png",
+        "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/06/29/2906/images/2831/2831.200.png",
         "avatar": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663091788_11-mykaleidoscope-ru-p-emotsii-i-chuvstva-krasivo-12.jpg"
     }
   ]
