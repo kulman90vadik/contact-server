@@ -58,7 +58,16 @@
       "city": "Usa",
       "status": true,
       "gender": "man",
-      "avatar": "/public/images/znakomstva/1.png"
+      "avatar": "https://s3.eu-central-1.amazonaws.com/e-sathi/uploads/photos/2022/03/e-sathi_f1d1480f240359018ad5e40032725114.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lena",
+      "age": "24",
+      "city": "Usa",
+      "status": true,
+      "gender": "man",
+      "avatar": "http://www.wander-trips.com/upload/data/experiences/4313traveltip6.jpg"
     }
   ]
 }
