@@ -80,6 +80,39 @@
         "gender": "woman",
         "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/06/29/2906/images/2831/2831.200.png",
         "avatar": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663091788_11-mykaleidoscope-ru-p-emotsii-i-chuvstva-krasivo-12.jpg"
+    },
+
+
+
+      {
+        "id": 4,
+        "name": "Franz",
+        "age": "19",
+        "city": "Germany",
+        "status": true,
+        "gender": "man",
+        "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/38/29/2938/images/2863/2863.200.png",
+        "avatar": "https://avatars.mds.yandex.net/i?id=3815fbc1a2c596afaaa8db02ad8ae4de1e38c345-10812190-images-thumbs&n=13"
+    },
+      {
+        "id": 5,
+        "name": "Pia",
+        "age": "31",
+        "city": "India",
+        "status": true,
+        "gender": "woman",
+        "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/60/29/2960/images/2885/2885.200.png",
+        "avatar": "https://avatars.mds.yandex.net/i?id=c3d4bb804320208956dc3668b86d7f9631c0f3a3-12423753-images-thumbs&n=13"
+    },
+      {
+        "id": 6,
+        "name": "Polo",
+        "age": "25",
+        "city": "Kazakhstan",
+        "status": true,
+        "gender": "man",
+        "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/70/29/2970/images/2895/2895.200.png",
+        "avatar": "https://avatars.mds.yandex.net/i?id=85d40b374c7c77d8870d4045f6c8a0077490467b-12518403-images-thumbs&n=13"
     }
   ]
 }
