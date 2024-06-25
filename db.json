@@ -58,6 +58,7 @@
       "city": "Belgium",
       "status": true,
       "gender": "man",
+      "favorites": false,
       "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/07/29/2907/images/2832/2832.200.png",
       "avatar": "https://s3.eu-central-1.amazonaws.com/e-sathi/uploads/photos/2022/03/e-sathi_f1d1480f240359018ad5e40032725114.jpg",
       "info": {
@@ -81,6 +82,7 @@
         "city": "Argentina",
         "status": false,
         "gender": "woman",
+        "favorites": false,
         "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/97/28/2897/images/2822/2822.200.png",
         "avatar": "https://avatars.mds.yandex.net/i?id=e119a559d57ea2638e5f6ce247e84d9398556f12-10024022-images-thumbs&ref=rim&n=33&w=200&h=200",
         "info": {
@@ -104,6 +106,7 @@
         "city": "Belarus",
         "status": false,
         "gender": "woman",
+        "favorites": false,
         "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/06/29/2906/images/2831/2831.200.png",
         "avatar": "https://mykaleidoscope.ru/x/uploads/posts/2022-09/1663091788_11-mykaleidoscope-ru-p-emotsii-i-chuvstva-krasivo-12.jpg",
         "info": {
@@ -127,6 +130,7 @@
         "city": "Germany",
         "status": true,
         "gender": "man",
+        "favorites": false,
         "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/38/29/2938/images/2863/2863.200.png",
         "avatar": "https://avatars.mds.yandex.net/i?id=3815fbc1a2c596afaaa8db02ad8ae4de1e38c345-10812190-images-thumbs&n=13",
         "info": {
@@ -150,6 +154,7 @@
         "city": "India",
         "status": false,
         "gender": "woman",
+        "favorites": false,
         "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/60/29/2960/images/2885/2885.200.png",
         "avatar": "https://avatars.mds.yandex.net/i?id=c3d4bb804320208956dc3668b86d7f9631c0f3a3-12423753-images-thumbs&n=13",
         "info": {
@@ -173,6 +178,7 @@
         "city": "Kazakhstan",
         "status": true,
         "gender": "man",
+        "favorites": false,
         "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/70/29/2970/images/2895/2895.200.png",
         "avatar": "https://avatars.mds.yandex.net/i?id=85d40b374c7c77d8870d4045f6c8a0077490467b-12518403-images-thumbs&n=13",
         "info": {
@@ -196,6 +202,7 @@
       "city": "Argentina",
       "status": false,
       "gender": "woman",
+      "favorites": false,
       "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/97/28/2897/images/2822/2822.200.png",
       "avatar": "https://avatars.mds.yandex.net/i?id=a004db543d9e951504e6946105baf49b6d16daa5-8797427-images-thumbs&n=13",
       "info": {
@@ -218,6 +225,7 @@
     "age": "29",
     "city": "Germany",
     "status": true,
+    "favorites": false,
     "gender": "man",
     "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/38/29/2938/images/2863/2863.200.png",
     "avatar": "https://avatars.mds.yandex.net/i?id=a2eeb51be15788dcd6183190de0730b8098f8b22-3607511-images-thumbs&n=13",
@@ -242,6 +250,7 @@
   "city": "Belarus",
   "status": false,
   "gender": "woman",
+  "favorites": false,
   "flag": "http://kolapromsnab.ru/wa-data/public/shop/products/06/29/2906/images/2831/2831.200.png",
   "avatar": "https://avatars.mds.yandex.net/i?id=310f39ed047690a5a6d553629c19559cd91256f5-10995463-images-thumbs&n=13",
   "info": {
